@@ -12,9 +12,9 @@
 💻 Currently working on **Manual Testing**  
 🤖 Learning **Automation Testing (Cypress & Selenium)**  
 💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**  
-
 📫 Reach me at **[nafishatamannan1807@gmail.com](mailto:nafishatamannan1807@gmail.com)**  
-📄 Resume: <a href="https://drive.google.com/file/d/1BYpBIY9J8uWBxgIvqbC_IAkoYg1V9U0C/view?usp=sharing" target="_blank">Download</a> 👉 Projects: <a href="https://github.com/nafisha-tamanna?tab=repositories" target="_blank">GitHub Repositories</a>
+📄 Resume: <a href="https://drive.google.com/file/d/1BYpBIY9J8uWBxgIvqbC_IAkoYg1V9U0C/view?usp=sharing" target="_blank">Download</a> 
+👉 Projects: <a href="https://github.com/nafisha-tamanna?tab=repositories" target="_blank">GitHub Repositories</a>
 
 ---
 
